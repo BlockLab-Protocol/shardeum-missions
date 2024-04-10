@@ -18,7 +18,7 @@
     "ethers": "^5.7.2",
     "framer-motion": "^6",
     "lodash": "^4.17.21",
-    "next": "^12.2.0",
+    "next": "^13.5.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "snarkjs": "^0.4.22",
